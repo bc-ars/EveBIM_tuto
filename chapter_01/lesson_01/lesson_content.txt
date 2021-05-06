@@ -27,21 +27,21 @@ le tuto “xxx”.
 
 En attendant, “fermez” ce module :
 
-![image5](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image5-0245376.jpg)
+![image5](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image5-0245376.jpg){:class="img-responsive"}
 
 Nous allons maintenant ouvrir la maquette numérique architecturale au format IFC qui a été fournie dans le dossier de consultation.
 
-Si vous avez téléchargé le dossier de consultation sur votre poste de travail, vous pouvez cliquer sur l’onglet “Accueil” puis sur “Ouvrir”. Vous sélectionnez alors le fichier IFC de la maquette architecturale dans votre arborescence.![image6](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image6.jpg)
+Si vous avez téléchargé le dossier de consultation sur votre poste de travail, vous pouvez cliquer sur l’onglet “Accueil” puis sur “Ouvrir”. Vous sélectionnez alors le fichier IFC de la maquette architecturale dans votre arborescence.![image6](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image6.jpg){:class="img-responsive"}
 
-![image7](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image7.jpg)
+![image7](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image7.jpg){:class="img-responsive"}
 
 
 
 La maquette s’ouvre, vous voyez la progression de son ouverture en bas à gauche.
 
-![image8](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image8.png)
+![image8](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image8.png){:class="img-responsive"}
 
-Résultat![image9](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image9.png)
+Résultat![image9](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image9.png){:class="img-responsive"}
 
 
 
@@ -53,21 +53,21 @@ Dans la fenêtre principale vous voyez la maquette numérique que vous avez ouve
 
 Cliquez dans cette fenêtre en maintenant le “clic gauche” de votre souris et bougez votre souris dans la direction vers laquelle vous voulez faire tourner la maquette. Vous pouvez faire tourner la maquette sur elle-même en répétant l’opération plusieurs fois. Vous pouvez également la faire tourner de haut en bas.
 
-![image-20210505224922826](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image10.jpg)
+![image-20210505224922826](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image10.jpg){:class="img-responsive"}
 
 Pour faire “glisser” la maquette, vous maintenez le clic de la molette enfoncé et vous déplacez votre souris dans la direction souhaitée.
 
-![image-20210505225359660](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image11.jpg)
+![image-20210505225359660](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image11.jpg){:class="img-responsive"}
 
 Pour zoomer et dézoomer, vous utilisez la molette de votre souris, avant.... Arrière....
 
 *Si vous zoomez plusieurs fois vous pouvez rentrer dans le bâtiment en traversant les murs*
 
-![image-20210505225409244](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image12.jpg)
+![image-20210505225409244](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image12.jpg){:class="img-responsive"}
 
 Si vous voulez repositionner la maquette dans sa position initiale, vous pouvez cliquer sur le bouton « voir modèle courant » qui se trouve dans les outils « vue 3D » dans le bandeau supérieur.
 
-![image13](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image13.png)
+![image13](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image13.png){:class="img-responsive"}
 
 ## 3. Améliorer la visibilité
 
@@ -75,13 +75,13 @@ Si un élément vous gêne pour mieux comprendre le projet, il est possible de l
 
 Vous faites clic gauche sur le terrain pour le sélectionner, il devient rouge,
 
-![image14](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image14.png)Puis vous faites clic droit et sélectionner « cacher » puis « cacher la sélection ».
+![image14](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image14.png){:class="img-responsive"}Puis vous faites clic droit et sélectionner « cacher » puis « cacher la sélection ».
 
-![image15](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image15.png)
+![image15](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image15.png){:class="img-responsive"}
 
 Résultat après avoir caché la sélection :
 
-![image16](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image16.jpg)
+![image16](https://raw.githubusercontent.com/bc-ars/plateform-images/main/evebim/image16.jpg){:class="img-responsive"}
 
 
 
