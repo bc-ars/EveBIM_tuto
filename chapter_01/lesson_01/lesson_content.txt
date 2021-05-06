@@ -1,0 +1,561 @@
+## Tutoriel 1 - Je m’approprie le dossier
+
+Table des matières
+
+- 1. Ouvrir une maquette numérique au format IFC
+- 2. S’approprier la géométrie extérieure du projet
+- 3. Améliorer la visibilité
+- 4. S’approprier l’organisation intérieure du bâtiment
+- 5. Regarder de près un étage courant pour comprendre sa distribution spatiale
+- 6. Prendre des côtes
+- 7. Faire une coupe dans le bâtiment
+- 8. Superposer 2 maquettes
+- 9. Capturer des images
+- 10. Fermer un fichier IFC
+
+## 1. Ouvrir une maquette numérique au format IFC
+
+Commençons par ouvrir la visionneuse. Nous utilisons dans ce tutoriel la visionneuse EveBIM.
+
+Les fonctionnalités expliquées dans ce tutoriel se retrouvent dans la plupart des visionneuses existantes.
+
+Pour ouvrir EveBIM à partir du bureau, vous double-cliquez sur l’icône « EveBIM ». Le logiciel s’ouvre.
+
+A l’ouverture d’EveBIM vous êtes susceptible de trouver le module “modèle” ouvert, nous nous y intéresserons dans
+
+le tuto “xxx”.
+
+En attendant, “fermez” ce module :
+
+![image5]https://github.com/bc-ars/plateform-images/blob/main/evebim/image5-0245376.jpg)
+
+Nous allons maintenant ouvrir la maquette numérique architecturale au format IFC qui a été fournie dans le dossier de consultation.
+
+Si vous avez téléchargé le dossier de consultation sur votre poste de travail, vous pouvez cliquer sur l’onglet “Accueil” puis sur “Ouvrir”. Vous sélectionnez alors le fichier IFC de la maquette architecturale dans votre arborescence.![image6]https://github.com/bc-ars/plateform-images/blob/main/evebim/image6.jpg)
+
+![image7]https://github.com/bc-ars/plateform-images/blob/main/evebim/image7.jpg)
+
+
+
+La maquette s’ouvre, vous voyez la progression de son ouverture en bas à gauche.
+
+![image8]https://github.com/bc-ars/plateform-images/blob/main/evebim/image8.png)
+
+Résultat![image9]https://github.com/bc-ars/plateform-images/blob/main/evebim/image9.png)
+
+
+
+## 2. S’approprier la géométrie extérieure du projet
+
+Nous allons commencer par voir les fonctionnalités de base qui permettent de comprendre la géométrie globale du projet.
+
+Dans la fenêtre principale vous voyez la maquette numérique que vous avez ouverte.
+
+Cliquez dans cette fenêtre en maintenant le “clic gauche” de votre souris et bougez votre souris dans la direction vers laquelle vous voulez faire tourner la maquette. Vous pouvez faire tourner la maquette sur elle-même en répétant l’opération plusieurs fois. Vous pouvez également la faire tourner de haut en bas.
+
+![image-20210505224922826]https://github.com/bc-ars/plateform-images/blob/main/evebim/image10.jpg)
+
+Pour faire “glisser” la maquette, vous maintenez le clic de la molette enfoncé et vous déplacez votre souris dans la direction souhaitée.
+
+![image-20210505225359660]https://github.com/bc-ars/plateform-images/blob/main/evebim/image11.jpg)
+
+Pour zoomer et dézoomer, vous utilisez la molette de votre souris, avant.... Arrière....
+
+*Si vous zoomez plusieurs fois vous pouvez rentrer dans le bâtiment en traversant les murs*
+
+![image-20210505225409244]https://github.com/bc-ars/plateform-images/blob/main/evebim/image12.jpg)
+
+Si vous voulez repositionner la maquette dans sa position initiale, vous pouvez cliquer sur le bouton « voir modèle courant » qui se trouve dans les outils « vue 3D » dans le bandeau supérieur.
+
+![image13]https://github.com/bc-ars/plateform-images/blob/main/evebim/image13.png)
+
+## 3. Améliorer la visibilité
+
+Si un élément vous gêne pour mieux comprendre le projet, il est possible de le sélectionner et de le cacher. Par exemple, pour voir les niveaux de sous-sol, vous pouvez vouloir cacher le terrain.
+
+Vous faites clic gauche sur le terrain pour le sélectionner, il devient rouge,
+
+![image14]https://github.com/bc-ars/plateform-images/blob/main/evebim/image14.png)Puis vous faites clic droit et sélectionner « cacher » puis « cacher la sélection ».
+
+![image15]https://github.com/bc-ars/plateform-images/blob/main/evebim/image15.png)
+
+Résultat après avoir caché la sélection :
+
+![image16]https://github.com/bc-ars/plateform-images/blob/main/evebim/image16.jpg)
+
+
+
+Si vous avez besoin de revenir en arrière, vous pouvez faire « Annuler ».
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Résultat après annulation :
+
+Si vous voulez revenir sur ce que vous avez fait, vous cliquez « Refaire »
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Résultat :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+## 4. S’approprier l’organisation intérieure du bâtiment
+
+Pour s’approprier la géométrie intérieure du bâtiment, vous activez « Vue éclatée » dans les outils « Vue 3D »,
+
+Résultat :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Vous sélectionnez « Bâtiment » :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+A. Vous faites glisser le curseur « vertical » pour séparer les différents étages.
+B. Résultat
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour visualiser la composition d’un étage, il est également possible d’éclater l’étage à l’horizontal. Pour cela, dans la
+
+fenêtre « vue éclatée » :
+
+```
+A. Sélectionnez l’étage que vous souhaitez et ;
+B. Faites glisser le curseur « horizontal ».
+C. Résultat
+```
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+La maquette est désormais plus compréhensible.
+
+Si vous voulez revenir à la vue courante :
+
+```
+A. Il vous faudra remettre les curseurs à zéro,
+B. Résultat
+```
+Note : le bouton « modèle courant » n’aura pas d’effet sur la vue éclatée de la maquette.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Quand vous avez fini d’utiliser une fonctionnalité de la visionneuse, pensez à fermer la fenêtre à l’aide de la croix,
+
+sinon vous serez vite submergé par les fenêtres qui vont se mettre à gauche, à droite, en haut ou en bas de la fenêtre
+
+principale et celle-ci deviendra de plus en plus petite.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+## 5. Regarder de près un étage courant pour comprendre sa distribution spatiale
+
+Nous allons maintenant regarder de près un étage courant.
+Pour cela, revenons à notre « modèle courant » sur lequel nous zoomons, toujours à l’aide de la molette de notre
+souris.
+
+Cliquez à l’aide du bouton gauche de la souris sur un mur de l’étage qui vous intéresse.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Puis en faisant clic droit, sélectionnez « cacher » puis « cacher les étages supérieurs »
+
+Résultat :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+En maintenant le clic gauche appuyé et en orientant la souris vers le bas, on fait alors pivoter le bâtiment pour voir
+l’intérieur de l’étage.
+Dans la maquette, il est possible de cacher des éléments, prenons l’exemple des faux plafonds que l’on voit ici en
+gris. On peut le masquer en faisant clic gauche sur l’élément pour le sélectionner, il devient rouge
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Avec le clic droit de la souris, on sélectionne « cacher » puis « cacher la sélection ».
+
+L’élément disparaît :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour sélectionner plusieurs éléments à la fois, on maintient la touche contrôle tout en cliquant sur les différents
+
+éléments
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Puis on répète le clic droit, « cacher », « cacher la sélection ».
+
+Résultat :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+## 6. Prendre des côtes
+
+La vue de l’étage nous permet de prendre des côtes à l’intérieur du bâtiment.
+
+Zoomons sur la maquette à l’aide de la molette de la souris.
+
+Les volumes bleus que vous voyez sont les espaces, vous pouvez les masquer en faisant clic droit sur la souris et en
+
+sélectionnant « cacher » puis « cacher tous les espaces ».
+
+Prenons la cote d’un mur intérieur : on sélectionne tout d’abord le bouton « mesures » dans les outils « vue 3D ».
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Une nouvelle fenêtre s’ouvre et des petits cercles bleus apparaissent, ce sont des points d’accroches rapides.
+
+N’hésitez pas à zoomer avec la molette de votre souris pour cliquer précisément sur le point sur lequel vous voulez
+
+accrocher le cercle bleu.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+On clique sur un point (A) puis sur l’autre (B).
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Vous pouvez voir que la côte est maintenant inscrite dans la fenêtre « mesures » :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Prenons d’autres côtes. Par exemple les dimensions d’un mur, sa hauteur... sa largeur...
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Elargir la fenêtre “mesure” pour avoir accès à tous les attributs des mesures
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+En cochant et décochant les différentes cotes dans la fenêtre “mesures”, vous les faites apparaitre ou disparaitre sur
+la maquette :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Vous pouvez également désactiver l’accrochage automatique en cochant la case mode libre.
+
+Si vous avez accroché un point que vous ne vouliez pas sélectionner, appuyer sur « échap » sur votre clavier.
+
+En sélectionnant de nouveau « mesures » dans les outils « vues 3D », on arrête la prise de côtes mais celles-ci ne
+
+sont pas perdues. Si vous cliquez de nouveau sur « mesures », la fenêtre réapparait avec les côtes que vous avez
+prises précédemment.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour supprimer définitivement une côte, vous cliquez avec le bouton gauche de votre souris sur la ligne que vous
+
+voulez supprimer, la ligne se met en bleu, vous faites « clic droit » sur votre souris et sélectionnez « supprimer les
+
+mesures », la ligne disparait.
+
+
+Tutoriel 1 - Je m’approprie le dossier
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Résultat :
+
+Lorsque vous voulez faire réapparaitre l’ensemble du bâtiment, cliquer sur le bouton « afficher tout » dans les outils
+
+« vue 3D ».
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+## 7. Faire une coupe dans le bâtiment
+
+SI vous avez besoin de faire une coupe à un endroit particulier du bâtiment, il est possible de le faire à l’aide de l’outil
+« plan de coupe » qui se trouve au niveau des outils « vue 3D » dans le bandeau supérieur.
+Cliquez sur la flèche à droite de « plan de coupe », vous pouvez alors choisir votre plan de coupe : XY (plan horizontal
+le long de l’axe Z) , XZ (vertical le long de l’axe Y)) ou YZ (plan vertical le long de l’axe X).
+
+Choisissons le plan de coupe XY :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Le plan de coupe apparaît, il est représenté par un cercle vert.
+
+Pour déplacer le plan de coupe, il faut maintenir le clic gauche de la souris enfoncé pointé sur le disque vert. Quand il
+devient rouge, vous faites glisser la souris dans la direction voulue, de bas en haut dans le cas présent.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour revenir à la situation initiale cliquez sur “Plan de coupe”
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Recliquons sur “Plan de coupe” et choisissons cette fois ci le plan XZ.
+
+Le plan de coupe apparaît, représenté par le cercle vert.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Comme précédemment, pour déplacer le plan de coupe, il faut maintenir le clic gauche de la souris enfoncé pointé
+
+sur le disque vert, et quand il devient rouge, vous faites glisser la souris dans la direction voulue, en avant ou en
+
+arrière dans le cas présent.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+En cliquant de nouveau sur la flèche à droite de « plan de coupe » et en sélectionnant « plan de coupe » à la fin du
+
+menu déroulant, une nouvelle fenêtre s’ouvre.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Cette fenêtre propose plusieurs options qui peuvent vous être utiles : en décochant la case « montrer le
+
+manipulateur 3D », le plan de coupe n’est plus visible. Pour déplacer le plan de coupe, vous pouvez alors utiliser le
+
+curseur.
+
+Vous pouvez alors zoomer sur la zone spécifique que vous souhaitez regarder à l’aide de la molette de votre souris. Il
+n’est pas possible par contre de prendre une côte sur une coupe car vous avez de fortes chances de sélectionner un
+
+point d'un élément non visible ce qui rend les mesures incohérentes ;
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour revenir à la situation initiale cliquez sur “Plan de coupe”
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Enfin il est possible également de créer un plan de coupe en cliquant sur une face de la maquette. Pour cela, vous
+
+cliquez de nouveau sur la flèche à droite de « plan de coupe » et vous choisissez “sélectionner un plan de coupe”.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Vous cliquez sur le mur à l’aide duquel vous voulez définir votre plan de coupe et vous utilisez le curseur pour
+
+déplacer le plan de coupe.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour revenir au modèle courant, cliquer sur le bouton « voire modèle courant » ne vous servira pas. Vous devez
+cliquer de nouveau sur « plan de coupe » dans les outils « vues 3D » dans le bandeau supérieur
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+## 8. Superposer 2 maquettes
+
+Vous pouvez avoir besoin de superposer une maquette technique avec la maquette architecturale
+Pour cela, gardez la maquette architecturale ouverte.
+Dans l’onglet « accueil », vous cliquez sur « ouvrir » et vous sélectionnez la maquette que vous souhaitez ajouter au
+format IFC.
+
+Ouvrons la maquette plomberie CVC.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+La maquette s’ouvre, vous pouvez voir la progression de son ouverture en bas à gauche.
+
+Résultat
+
+Si vous cliquez sur « projet » dans les outils « modèles », une fenêtre apparaît avec les 2 noms de fichiers ouverts
+cochés. [La fenêtre projet s’ouvre par défaut automatiquement]
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Si vous décochez la maquette architecture, seule apparaît la maquette CVC :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour refaire apparaître la maquette architecture cochez de nouveau celle-ci
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Disons maintenant que je veux voir les installations techniques en sous-sol.
+
+Je sélectionne un mur du sous-sol,
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Je clic droit sur ma souris, et je sélectionne « cacher » puis « cacher les étages supérieurs ».
+
+Résultat :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour améliorer la visibilité des installations techniques, je sélectionne cette fois ci une canalisation en sous-sol :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+```
+je clique droit et de nouveau je sélectionne « cacher » et« cacher les étages supérieurs ». Je peux alors facilement
+prendre connaissance du parcours des réseaux en sous-sol.
+```
+Résultat :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Pour revenir en arrière faites “annuler”,
+
+Pour réafficher la maquette faite “voir le modèle courant” “Voir tout”
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Attention à bien faire “afficher tout” sur les deux modèles :
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+## 9. Capturer des images
+
+Vous pouvez avoir besoin de capturer des images de la maquette pour illustrer votre mémoire technique dans le but
+de valoriser votre travail ou pour mettre en évidence un point spécifique.
+
+Pour faire cela, vous cliquez sur le bouton “capture d’écran” dans les outils “vue 3D”.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Une fenêtre s’ouvre avec la capture de la fenêtre principale. Vous avez le choix de coller l’image dans le presse-
+papier ou de l’enregistrer au format .png.
+
+Une fois dans votre document Word, vous faites CTRL + V pour coller l’image si vous l’avez sauvegardée dans le
+
+presse papier ou vous l’insérer à l’aide de la fonction “insérer / image / cet appareil” et vous allez la chercher dans
+l’arborescence à l’endroit où vous l’avez sauvegardé.
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+## 10. Fermer un fichier IFC
+
+Vous avez deux maquettes ouvertes et vous souhaitez en fermer une seule. Cliquer sur « projet » dans les outils
+« modèles ». SI vous le souhaitez, un support au format PDF est mis à votre disposition en complément de ce
+tutoriel. Le tuto 2 quant à lui vous expliquera comment voir les informations contenues dans les objets de la
+maquette numérique.
+Une fenêtre apparaît avec les 2 noms de fichiers, cliquez sur le fichier correspondant à la maquette que vous voulez
+fermer, la ligne se met en bleu et sélectionner « fermer » dans le bandeau supérieur.
+
+Résultat
+
+Si vous souhaitez fermer l’ensemble des maquettes ouvertes, dans l’onglet fichier, vous sélectionnez « fermer tout ».
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+```
+ANNEXE
+```
+```
+TRADUCTION DES TERMES ANGLAIS
+```
+Name : nom
+
+Fields : champs
+
+Properties : propriétés
+
+BaseQuantities : quantités de base
+
+
+Tutoriel 1 - Je m’approprie le dossier
+
+
+Tutoriel 1 - Je m’approprie le dossier
+
+
+Tutoriel 1 - Je m’approprie le dossier
+
+
+```
+Tutoriel 1 - Je m’approprie le dossier
+```
+Avec la participation de :
